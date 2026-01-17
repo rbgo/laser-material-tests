@@ -1,0 +1,4 @@
+:doctype: book
+:document-title: Laser Material Settings: `CO2_100W_RD_2Q`
+
+= Laser Material Settings: `CO2_100W_RD_2Q`
