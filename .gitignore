@@ -1,0 +1,7 @@
+!.gitignore
+*.gcode
+*.gc
+*.g
+*.txt
+*.nc
+*.ngc
