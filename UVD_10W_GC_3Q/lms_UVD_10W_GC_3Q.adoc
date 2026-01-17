@@ -1,0 +1,4 @@
+:doctype: book
+:document-title: Laser Material Settings: `UVD_10W_GC_3Q`
+
+= Laser Material Settings: `UVD_10W_GC_3Q`
